@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Animated Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Banner">
+  <!-- Animated Banner (smaller) -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" alt="Banner">
   
 </div>
 
@@ -33,12 +33,42 @@ Full-stack developer focused on **Web3**, **blockchain**, and **automation**. I 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ineu02&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7)
 
-## 📬 Get In Touch
+---
 
-- Twitter: [@Ineu02](https://twitter.com/Ineu02)
-- Telegram: [@antapani0](https://t.me/antapani0)
-- Email: ineu02@gmail.com
+## 🤝 Let's Connect
+
+**Email** • **Discord** • **Telegram** • **Twitter**
+
+## 💝 Support Me
+
+### 🎁 Donation Platforms
+- Buy Me A Coffee
+- Ko-fi
+- Patreon
+
+## ₿ Crypto Support
+
+**Ethereum** • **Binance Smart Chain** • **Polygon**
 
 ---
 
+## 📋 EVM Address
+
+<details>
+<summary>Click to reveal address</summary>
+
+```
+0xB76bDA180621a322ed7E5c4d285d0E63779e8DE5
+```
+
+</details>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ineu02&color=blueviolet)
+
 ⭐ If you find my work useful, consider giving a star!
+
+</div>
